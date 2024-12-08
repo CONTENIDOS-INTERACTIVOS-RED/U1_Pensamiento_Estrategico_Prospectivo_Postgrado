@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Esta unidad presenta una guía sobre el diseño, planeación y gestión de proyectos. Inicia con los datos generales del equipo de producción y responsables de contenido. La Unidad 1 desarrolla los fundamentos del diseño de proyectos, incluyendo su definición, tipos, ciclo de vida y principios de gestión. También aborda la identificación de necesidades, formulación de objetivos SMART, establecimiento de indicadores y resultados esperados. Se exploran metodologías como PMBOK, PRINCE2 y Scrum, además de recursos tecnológicos y bibliográficos actualizados que fortalecen las competencias en la gestión de proyectos.
+              p.descripcion.mb-4 Desde el origen de la humanidad, el análisis del futuro ha sido fundamental para la toma de decisiones estratégicas. El pensamiento estratégico y prospectivo, en este contexto, se presenta como una herramienta esencial para anticipar escenarios y construir soluciones efectivas en un entorno en constante cambio. En esta primera unidad, se profundizará en los conceptos clave del pensamiento estratégico, su aplicación en diversos contextos organizacionales, y en las metodologías prospectivas para planificar el futuro de manera sostenible y eficiente.
 
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold Cada proyecto es una oportunidad para transformar ideas en realidad y dejar un impacto positivo en el mundo.
+              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para liderar el cambio con visión, estrategia y proactividad!
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
