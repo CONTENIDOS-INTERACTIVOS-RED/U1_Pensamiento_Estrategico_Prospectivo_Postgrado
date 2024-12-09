@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Definición de proyecto y tipos de proyectos'")
+  BannerInterno(:subTitulo="'1. Estrategia: definición y características en contextos complejos'")
   .container.tarjeta.tarjeta--blanca.px-4.pt-4.px-md-5.pt-md-5.pb-0.overflow-hidden
 
     .row.mb-4
