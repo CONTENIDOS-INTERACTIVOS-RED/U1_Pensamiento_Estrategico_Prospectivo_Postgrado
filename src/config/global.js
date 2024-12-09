@@ -23,38 +23,27 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Unidad',
+        titulo: 'Pensamiento sistémico y pensamiento complejo',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Texto destacado',
+            titulo:
+              'Características del pensamiento sistémico y del pensamiento complejo, en la estrategia',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Llamado a la acción - Recursos externos',
+            titulo: 'Aplicaciones en la gestión estratégica',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Audios',
+            titulo: 'Importancia para los líderes y tomadores de decisiones',
             hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Listado',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Línea de tiempo',
-            hash: 't_2_5',
           },
         ],
       },
@@ -62,20 +51,28 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Unidad',
+        titulo: 'Evaluación de la toma de decisiones en entornos inciertos',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Carrusel',
+            titulo: 'Principales desafíos',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Tablas',
+            titulo:
+              'Herramientas para la toma de decisiones estratégicas, en incertidumbre',
             hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo:
+              'Importancia del <em>feedback</em> y la evaluación continua',
+            hash: 't_3_3',
           },
         ],
       },
@@ -162,64 +159,103 @@ export default {
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Adaptabilidad',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'capacidad de ajustarse rápidamente a los cambios imprevistos del entorno.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Estrategia',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'proceso de toma de decisiones coordinadas para alcanzar objetivos en un contexto dinámico.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Estrategia emergente',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'estrategia que surge de manera espontánea en respuesta a situaciones imprevistas.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Estrategia deliberada',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'estrategia planificada con objetivos definidos y recursos asignados.',
     },
     {
-      termino: 'Moda',
+      termino: 'Feedback',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'proceso de retroalimentación para ajustar decisiones estratégicas con base en resultados obtenidos.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Gestión del riesgo',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'identificación y mitigación de riesgos que pueden afectar el logro de objetivos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Incertidumbre',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'situación en la que no se puede prever con certeza el resultado de un evento.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Innovación estratégica',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'uso de nuevas ideas o métodos para mejorar procesos y obtener ventajas competitivas.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Pensamiento complejo',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'análisis que reconoce la ambigüedad e interdependencia entre múltiples factores.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Pensamiento sistémico',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'enfoque que analiza las interrelaciones entre las partes de un sistema para comprender su funcionamiento global.',
     },
     {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Proactividad',
+      significado: 'capacidad de anticiparse a cambios o problemas futuros.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Resiliencia organizacional',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'capacidad de una organización para recuperarse y prosperar tras enfrentar adversidades.',
+    },
+    {
+      termino: 'Retroalimentación',
+      significado:
+        'información recibida sobre el desempeño para realizar mejoras continuas.',
+    },
+    {
+      termino: 'Sostenibilidad',
+      significado:
+        'prácticas que buscan un equilibrio entre el desarrollo económico, social y ambiental.',
+    },
+    {
+      termino: 'Toma de decisiones colaborativa',
+      significado:
+        'proceso que involucra a diversos actores en la toma de decisiones estratégicas.',
+    },
+    {
+      termino: 'Toma de decisiones bajo incertidumbre',
+      significado:
+        'proceso de elegir opciones sin disponer de toda la información necesaria.',
+    },
+    {
+      termino: 'VUCA',
+      significado:
+        'acrónimo de Volatilidad, Incertidumbre, Complejidad y Ambigüedad, que describe entornos dinámicos.',
+    },
+    {
+      termino: 'Ventaja competitiva',
+      significado:
+        'característica que permite a una organización destacarse y superar a sus competidores.',
+    },
+    {
+      termino: 'Visión',
+      significado:
+        'declaración que define el propósito y la dirección a largo plazo de una organización.',
+    },
+    {
+      termino: 'Escenarios prospectivos',
+      significado:
+        'modelos que visualizan futuros posibles para guiar la planificación estratégica.',
     },
   ],
   complementario: [

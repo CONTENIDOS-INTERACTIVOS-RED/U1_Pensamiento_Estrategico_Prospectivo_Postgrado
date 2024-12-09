@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'NOMBRE TEMA 3'")
+  BannerInterno(:subTitulo="'3. Evaluación de la toma de decisiones en entornos inciertos'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.mb-5
       .col-lg-8
@@ -17,7 +17,7 @@
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/tema3/1.png",style="max-width: 400px;")
     
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_3_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.1] Principales desafíos
     
     p.mb-4 Los principales desafíos en la toma de decisiones bajo incertidumbre, son:
@@ -45,7 +45,7 @@
         .h5.mb-2 Efecto del sesgo cognitivo
         p.mb-0 Los tomadores de decisiones no son inmunes a los sesgos cognitivos, que pueden influir en su juicio. La heurística y los prejuicios inconscientes, pueden llevar a decisiones subóptimas, especialmente en situaciones de alta incertidumbre.
     
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_3_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.2] Herramientas para la toma de decisiones estratégicas, en incertidumbre
     
     .row.mb-4
@@ -102,7 +102,7 @@
               figure
                 img(src='@/assets/curso/tema3/10.png')
 
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_3_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.3] Importancia del feedback y la evaluación continua
 
     p.mb-4 Una característica clave de la toma de decisiones en entornos inciertos, es la necesidad de una evaluación continua y una retroalimentación. Esto implica monitorear los resultados de las decisiones y realizar ajustes conforme se desarrolla el contexto. La capacidad de aprendizaje organizacional, es fundamental para mejorar la toma de decisiones y minimizar errores futuros (Chávez Martínez, 2003).

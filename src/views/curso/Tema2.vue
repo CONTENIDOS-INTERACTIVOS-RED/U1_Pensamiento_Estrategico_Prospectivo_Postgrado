@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'NOMBRE TEMA 2'")
+  BannerInterno(:subTitulo="'2. Pensamiento sistémico y pensamiento complejo'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .fondo-color-sistema-m.mb-4
@@ -67,7 +67,7 @@
             td Gestión de cadena de valor (IKEA).
             td Adaptación a nuevas demandas (Starbucks).
     
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_2_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.1] Características del pensamiento sistémico y del pensamiento complejo, en la estrategia
     
     p.mb-4 El pensamiento sistémico y el pensamiento complejo, permiten comprender los problemas estratégicos de manera integral. Estos enfoques brindan a las organizaciones, herramientas para anticiparse a los cambios, gestionar la incertidumbre y desarrollar resiliencia, aspectos esenciales en la planificación estratégica contemporánea.
@@ -121,7 +121,7 @@
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/tema2/6.png",style="max-width: 400px;")
     
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_2_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.2] Aplicaciones en la gestión estratégica
     
     p.mb-5 El pensamiento sistémico y el pensamiento complejo, se han consolidado como una herramienta esencial en la gestión estratégica, especialmente en entornos inciertos y cambiantes. Estos enfoques permiten a los líderes diseñar estrategias más adaptativas, aprovechar patrones emergentes y gestionar riesgos de forma proactiva (Boada & Cardona Montoya, 2020). A continuación, se destacan algunas aplicaciones prácticas de estos marcos conceptuales en la gestión estratégica moderna:
@@ -180,7 +180,7 @@
     
     p.mb-5 Por ende, es de interpretar que el pensamiento sistémico y el pensamiento complejo, sean fundamentales para enfrentar los desafíos estratégicos en un entorno volátil e incierto. La capacidad de detectar patrones, identificar puntos de apalancamiento, evaluar sostenibilidad y desarrollar capacidades adaptativas, permite a las organizaciones diseñar estrategias más efectivas y resilientes. Al integrar herramientas prospectivas y fomentar el aprendizaje organizacional, las empresas pueden anticipar cambios, gestionar la incertidumbre y prosperar en un mundo en constante transformación.
 
-    #t_1_1.titulo-segundo(data-aos="flip-up")
+    #t_2_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.3] Importancia para los líderes y tomadores de decisiones
     
     .fondo-color-sistema-m.mb-4
